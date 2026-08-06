@@ -42,5 +42,5 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Google Colab
 
 👨‍💻 Author
 
-##Sk Rehan Akhtar
-Aspiring Data Analyst
+* **Sk Rehan Akhtar**
+* Aspiring Data Analyst
