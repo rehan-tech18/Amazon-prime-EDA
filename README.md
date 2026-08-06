@@ -44,6 +44,6 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Google Colab
 
 * **Sk Rehan Akhtar**
 * Aspiring Data Analyst
- www.linkedin.com/in/sk-rehan-akhtar
+  www.linkedin.com/in/sk-rehan-akhtar
 
 
